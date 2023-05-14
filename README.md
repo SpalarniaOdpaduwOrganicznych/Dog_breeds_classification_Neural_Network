@@ -1,1 +1,1 @@
-# Dog_breeds_classification_Neural_Network
+My project of a neural network that can recognize different breeds of dogs. This project was purely for fun and my desire to learn more about deep learning techniques. By training the neural network on thousands of images of different dog breeds, I was able to develop an accurate algorithm that can recognize and classify dog breeds with a high degree of accuracy.
